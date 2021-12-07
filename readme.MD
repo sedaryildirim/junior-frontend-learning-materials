@@ -56,7 +56,9 @@
 
 ### Code Pens
 
-- [CyberPunk Glitch Slider](https://codepen.io/jh3y/pen/pormmZj) - CSS Clip Path Maker
+- [CyberPunk Glitch Slider](https://codepen.io/jh3y/pen/pormmZj) - Glitch Slider (Amazing work!)
+- [Gradient Box Decoration](https://codepen.io/t_afif/pen/BawBBGO) - Gradient Box Decoration
+- [Gradient Animated Text](https://codepen.io/pokecoder/pen/gOGpKqM) - Gradient Animated Text
 
 ### Forms
 
