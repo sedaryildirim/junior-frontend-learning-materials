@@ -5,6 +5,7 @@
   - [Youtube channels](#youtube-channels)
   - [Github](#github)
   - [Cool Stuff](#cool-stuff)
+  - [Code Pens](#code-pens)
   - [Forms](#forms)
   - [SVG Icons](#svg-icons)
   - [Cheat Sheets](#cheat-sheets)
@@ -50,6 +51,12 @@
 - [Flexbox.Help](http://flexbox.help/) - Flexbox Generator / Visualization Help
 - [Grid Garden](https://cssgridgarden.com/) - Mini game for mastering CSS Grid
 - [Flexbox Froggy](https://flexboxfroggy.com/) - Mini game for mastering Flexbox
+- [Nazanin Ashrafi Glitch Effect](https://nazanin-ashrafi.hashnode.dev/how-to-make-a-glitch-button) - CSS Glitch Effect
+
+
+### Code Pens
+
+- [CyberPunk Glitch Slider](https://codepen.io/jh3y/pen/pormmZj) - CSS Clip Path Maker
 
 ### Forms
 
@@ -61,6 +68,7 @@
 
 ### SVG Icons
 
+- [Box Icons](https://boxicons.com/) - SVG Icon Library (personal fave)
 - [Font Awesome](https://fontawesome.com/) - SVG Icon Library
 - [Icon Scout](https://iconscout.com/) - SVG Icon Library
 - [Tabler Icons](https://tablericons.com/) - SVG Icon Library
